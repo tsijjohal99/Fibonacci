@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/msys64/home/local_admin/Fibonacci/build",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/Fibonacci.dir/src/main.cpp.obj -c /C/msys64/home/local_admin/Fibonacci/src/main.cpp",
+  "file": "C:/msys64/home/local_admin/Fibonacci/src/main.cpp"
+},
+{
+  "directory": "C:/msys64/home/local_admin/Fibonacci/build",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/Fibonacci.dir/src/fibonacci.cpp.obj -c /C/msys64/home/local_admin/Fibonacci/src/fibonacci.cpp",
+  "file": "C:/msys64/home/local_admin/Fibonacci/src/fibonacci.cpp"
+}
+]
